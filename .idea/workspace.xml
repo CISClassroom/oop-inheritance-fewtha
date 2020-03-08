@@ -66,6 +66,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1581670404035">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1581670404035" />
     <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1580978380389">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -86,5 +90,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1581669102226" />
+    <state x="65" y="0" key="new project wizard" timestamp="1581670578939">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1581670578939" />
   </component>
 </project>
